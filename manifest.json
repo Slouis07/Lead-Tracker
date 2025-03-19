@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Lead Tracker Pro",
+  "version": "2.0.0",
+  "description": "A professional tool to save and organize website leads with categories, notes, and export functionality",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "LeadsTrackerIcon.png"
+  },
+  "permissions": ["tabs", "storage"],
+  "author": "Severine Louis"
+}
